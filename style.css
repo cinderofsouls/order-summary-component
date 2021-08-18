@@ -30,6 +30,7 @@ body {
     font-size: 1.3125rem;
     line-height: 1.6;
     background: url(images/pattern-background-desktop.svg) no-repeat center center fixed;
+    background-color: #e0e8ff;
     background-size: cover;
     padding: 0px;
     margin: 0px;
